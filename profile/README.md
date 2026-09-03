@@ -47,6 +47,15 @@ under the [COPA-AI organization](https://huggingface.co/COPA-AI).
 
 - [**Parlour**](https://parlour.copa.team) — parliamentary intelligence platform.
 
+## 👥 Team
+
+**Founders** — Vahan Martirosyan (Strategy & Delivery) · Henrik Sergoyan
+(Operations & Partnerships) · Erik Arakelyan (Technical Architecture & AI
+Systems)
+
+**Team** — Khatun Avetisyan · Meri Davtyan · Heghine Grigoryan ·
+Nane Khachatryan · Hayk Shahsuvaryan
+
 <div align="center">
 <sub>From decision to working pilot in two weeks · <a href="https://copa.team">copa.team</a></sub>
 </div>
