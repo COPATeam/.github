@@ -35,8 +35,8 @@ A complete, auditable LLM ecosystem for Armenian, accompanying the paper
 | | Artifact | What it is |
 |---|---|---|
 | 🛠️ | [**armenian_llm_ecosystem**](https://github.com/COPATeam/armenian_llm_ecosystem) | Full reproduction code — corpus pipeline, translate-and-verify, CPT recipes, evaluation (MIT) |
-| 📰 | [**ArmWeb**](https://huggingface.co/datasets/COPA-AI/armweb) | 4.37M-document (1.15B-token) curated Armenian news corpus, deduplicated and benchmark-decontaminated |
-| 🧮 | [**ArmSTEM**](https://huggingface.co/datasets/COPA-AI/armstem) | 373K verified parallel EN–HY math and science problems with step-by-step solutions |
+| 📰 | [**ArmWeb**](https://huggingface.co/datasets/COPA-AI/armweb) | 4.37M-document (3.3B Gemma-token) curated Armenian news corpus, deduplicated and benchmark-decontaminated |
+| 🧮 | [**ArmSTEM**](https://huggingface.co/datasets/COPA-AI/armstem) | 373K verified parallel EN–HY math and science problems (324K with step-by-step solutions) |
 | 🤖 | [**arm-gemma-e4b**](https://huggingface.co/COPA-AI/arm-gemma-e4b) | Gemma-4-E4B adapted to Armenian — first open Armenian LLM with its complete training corpus and recipe |
 
 All Hugging Face artifacts live in the
