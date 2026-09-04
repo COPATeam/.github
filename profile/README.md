@@ -30,7 +30,7 @@ commercial, and operational decision environments.
 ## 🔬 Open research — an LLM ecosystem for Armenian
 
 A complete, auditable LLM ecosystem for Armenian, accompanying the paper
-***From Zero to Hero: An Open LLM Ecosystem for Armenian*** (arXiv forthcoming):
+[***From Zero to Hero: An Open LLM Ecosystem for Armenian***](https://arxiv.org/abs/2609.03350) (arXiv:2609.03350):
 
 | | Artifact | What it is |
 |---|---|---|
